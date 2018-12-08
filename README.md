@@ -7,9 +7,9 @@ Jason is a 41 year old systems administrator. He is from Denver, Colorado. He ha
 
 We found the following sticky note on his desk:
 
-Access to private server
+###Access to private server
 
-### Bastion IP:
+ Bastion IP:
 - 104.248.191.147
 - Password: ???
 - Your challenge: Python

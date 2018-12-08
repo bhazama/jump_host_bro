@@ -10,23 +10,23 @@ We found the following sticky note on his desk:
 Access to private server
 
 Bastion IP:
-104.248.191.147
-Password:
-duh
-Your challenge: Python
+- 104.248.191.147
+- Password: ???
+- Your challenge: Python
 
 Requirements
-All phases must be programatic aka Python scripting. Other tools can be used but a final PoC for any phase must include a Python script.
+- All phases must be programatic aka Python scripting. Other tools can be used but a final PoC for any phase must include a Python script.
 
 Resources
-http://bit.ly/blackhatpython
+- http://bit.ly/blackhatpython
 
 Keywords
-proxy
-bastion
-jump host
+- proxy
+- bastion
+- jump host
+
 Possible Tools
-os
-socket
-paramiko
-....other?
+- os
+- socket
+- paramiko
+- ....other?
